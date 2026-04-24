@@ -1,16 +1,15 @@
-## Hi there 👋
+# Decil
 
-<!--
-**DecilOne/DecilOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building systems from first principles.  
+Focused on learning through real projects.
 
-Here are some ideas to get you started:
+## Current Focus
+- Breaking down systems into fundamentals
+- Thinking in data, not just code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Long Term Direction
+- Quantum Computing (Algorithms & Applications)
+
+## Philosophy
+Learn by building.  
+Understand before scaling.
