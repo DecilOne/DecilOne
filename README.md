@@ -1,15 +1,16 @@
-# Decil
+# Hey, I'm Ibrahim (Decil) 👋
 
-Building systems from first principles.  
-Focused on learning through real projects.
+Software engineering student obsessed with building things from scratch.
 
-## Current Focus
-- Breaking down systems into fundamentals
-- Thinking in data, not just code
+Currently: learning Python fundamentals → building a search engine step by step.
+Next: systems, algorithms, and eventually quantum computing.
 
-## Long Term Direction
-- Quantum Computing (Algorithms & Applications)
+I don't just want to code. I want to understand how things actually work.
 
-## Philosophy
-Learn by building.  
-Understand before scaling.
+---
+
+**What's here:**
+- A hackathon project that won 1st place — built in 48 hours
+- A text analyzer — first stone of a search engine
+
+*More coming. Always building.*
